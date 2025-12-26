@@ -1,3 +1,3 @@
 # Sample_Demo 
 
-this is a file we are learning to create a readme file 
+Read this file to uderstant the working of Readme file in Github
