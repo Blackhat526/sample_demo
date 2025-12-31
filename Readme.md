@@ -6,3 +6,5 @@ Read this file to uderstant the working of Readme file in Github
 
 Watch tutorial on Youtube.
 
+Have fun.
+
